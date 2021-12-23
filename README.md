@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="http://mukta.rbfgroupbd.com">Mukta Ahmed</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="http://muktabd.info">Mukta Ahmed</a></h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=MuktaAhmed=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -58,19 +58,19 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
+- [Chip widget: Material Design with Flutter](http://muktabd.info)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ &ensp;[More Articles...]()
 
 
 
-[website]: https://mukta.rbfgroupbd.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/JohannesMilke
+[website]: http://muktabd.info
+[twitter]: http://muktabd.info
+[youtube]: http://muktabd.info
+[linkedin]: http://muktabd.info
 [github]: https://github.com/muktabd
 [instagram]: https://www.instagram.com/muktabd
 [facebook]: https://www.facebook.com/mukta.2003
-[medium]: https://medium.com/@JohannesMilke
+[medium]: http://muktabd.info
 [email]: mukta@graduate.utm.my
