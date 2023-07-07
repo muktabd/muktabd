@@ -23,10 +23,11 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][Flutter]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][Dart]
-[<img align="left" alt=“NodeJS” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][NodeJS]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+
+<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /><p>Flutter</p>
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /><p>Dart</p>
+<img align="left" alt=“NodeJS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /><p>NodeJS</p>
+
 
 
 <br />
@@ -34,16 +35,25 @@
 
 ---
 
-### 📺 &ensp;Latest YouTube Videos
-
 
 ### 📚 &ensp;Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](http://muktabd.info)
-<!-- BLOG-POST-LIST:END -->
 
-➡️ &ensp;[More Articles...]()
+
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muktabd)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktabd)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muktabd&show_icons=true&count_private=true)  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muktabd&bg_color=8b6f7d&color=f5f5f5&line=865b83&point=d4abab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub metrics](https://metrics.lecoq.io/muktabd)  
+
+![](https://komarev.com/ghpvc/?username=your-github-muktabd)
 
 
 
